@@ -88,4 +88,4 @@ else:
   gradepoint3 = 0.0
   print("Grade point for course 3 is: 0.0")
 GPA = (gradepoint1 * credit1 + gradepoint2 * credit2 + gradepoint3 * credit3) / (credit1 + credit2 + credit3)
-print(f"Your GPA is:{GPA}")
+print(f"Your GPA is: {GPA}")
